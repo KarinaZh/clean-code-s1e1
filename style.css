@@ -10,6 +10,7 @@
   margin: 0 auto;
   display: block;
   text-align: right;
+  margin-bottom: 15px;
 }
 
 .main-img {
@@ -31,6 +32,10 @@
   display: block;
   width: 500px;
   margin: 0 auto 0;
+}
+
+#add-task {
+    margin-bottom: 20px;
 }
 
 .task {
